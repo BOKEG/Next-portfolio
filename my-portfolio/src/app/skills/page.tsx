@@ -1,7 +1,6 @@
 import React from "react";
 
 const skills = {
-  "Programming Languages": ["C++", "C", "Python"],
   "Front-End Development": ["HTML", "CSS (Bootstrap & Tailwind CSS)", "JavaScript"],
   "Back-End Development": ["Node.js", "API Development (Postman)"],
   "Database Management": ["MySQL", "MongoDB"],

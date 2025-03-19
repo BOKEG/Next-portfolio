@@ -29,7 +29,7 @@ export default function Home() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1, delay: 0.3 }}
       >
-      Welcome to My Portfolio
+      FULL STACK WEB DEVELOPER
       </motion.h1>
 
       {/* Description with Fade-in Effect */}
